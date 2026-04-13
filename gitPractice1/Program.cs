@@ -7,11 +7,19 @@ var mgr = new WayPointManager();
 
 mgr.Add(wp);
 
-Console.WriteLine(wp.Name);
-Console.WriteLine(wp.Description);
-Console.WriteLine(wp.Position.X);
-Console.WriteLine(wp.Position.Y);
-Console.WriteLine(wp.Position.Z);
+wp = new Waypoint("Home", "Nether base is my home", new Position(x: -120, y: 100, z: 340));
+mgr.Add(wp);
 
-Console.WriteLine(mgr.Waypoints.Count);
+var saver = new JSaver(mgr);
+
+saver.Save();
+Console.WriteLine("Hello World!");
+
+
+
+
+
+
+
+
 
