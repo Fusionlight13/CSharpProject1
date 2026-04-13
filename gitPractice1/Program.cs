@@ -13,3 +13,5 @@ Console.WriteLine(wp.Position.X);
 Console.WriteLine(wp.Position.Y);
 Console.WriteLine(wp.Position.Z);
 
+Console.WriteLine(mgr.Waypoints.Count);
+
