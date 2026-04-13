@@ -1,0 +1,15 @@
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\bin\Debug\net10.0\gitPractice1.exe
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\bin\Debug\net10.0\gitPractice1.deps.json
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\bin\Debug\net10.0\gitPractice1.runtimeconfig.json
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\bin\Debug\net10.0\gitPractice1.dll
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\bin\Debug\net10.0\gitPractice1.pdb
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\gitPractice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\gitPractice1.AssemblyInfoInputs.cache
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\gitPractice1.AssemblyInfo.cs
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\gitPractice1.csproj.CoreCompileInputs.cache
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\gitPractice1.sourcelink.json
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\gitPractice1.dll
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\refint\gitPractice1.dll
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\gitPractice1.pdb
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\gitPractice1.genruntimeconfig.cache
+C:\Users\Tony\RiderProjects\gitPractice1\gitPractice1\obj\Debug\net10.0\ref\gitPractice1.dll
