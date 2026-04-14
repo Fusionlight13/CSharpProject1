@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "House",
+    "Description": "My home base",
+    "Position": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    }
+  },
+  {
+    "Name": "Mine",
+    "Description": "My diamond mine",
+    "Position": {
+      "X": 100,
+      "Y": 400,
+      "Z": -34
+    }
+  }
+]

@@ -1,25 +1,14 @@
 ﻿using gitPractice1;
 
-var wp = new Waypoint("Nether Hub", "My home base", new Position(x:34, y: 100, z: 45));
+var wp = new Waypoint("House", "My home base", new Position(0, 0, 0));
+var wp2 = new Waypoint("Mine", "My diamond mine", new Position(100, 400, -34));
 
-var mgr = new WayPointManager();
+var myManager = new WaypointManager();
+myManager.Add(wp);
+myManager.Add(wp2);
 
-
-mgr.Add(wp);
-
-wp = new Waypoint("Home", "Nether base is my home", new Position(x: -120, y: 100, z: 340));
-mgr.Add(wp);
-
-var saver = new JSaver(mgr);
-
-saver.Save();
-Console.WriteLine("Hello World!");
-
-
-
-
-
-
+var fileService = new WaypointFileService(@"C:\Users\Tony\RiderProjects\gitPractice1\Waypoints.json", myManager);
+fileService.Save();
 
 
 
